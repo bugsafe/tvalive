@@ -214,7 +214,6 @@ CCTV-17,http://6949f5.netsite.cc/proxy/642661480/642661480.m3u8
 镇江新闻综合频道,http://6949f5.netsite.cc/proxy/1052067340/1052067340.m3u8
 镇江二套社会民生频道,http://6949f5.netsite.cc/proxy/1259661680/1259661680.m3u8
 四川观察,http://6949f5.netsite.cc/proxy/2061240764/2061240764.m3u8
-咪咕移动,#genre#
 IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
